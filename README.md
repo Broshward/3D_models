@@ -10,7 +10,8 @@ Current_regulator_case      - Case for current regulator filament machine
 and other cases
 h_stand_filament_extruder*  - stands (unnecessary)
 handle*                     - Potenciometer handles
-support                     - Bearing support for filament machine
+support*                    - Bearing support for filament machine
+roller*                     - Extrusion roller mechanism for filament machine(alpha)
 
-
+dowel*                      - Dowel for concrete d=12, l=60
 
