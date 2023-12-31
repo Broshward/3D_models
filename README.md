@@ -14,4 +14,4 @@ support*                    - Bearing support for filament machine
 roller*                     - Extrusion roller mechanism for filament machine(alpha)
 
 dowel*                      - Dowel for concrete d=12, l=60
-
+ski_binding*                - Ski bindings for nature people))
