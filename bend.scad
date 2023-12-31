@@ -7,7 +7,7 @@
 *   step - spiral step. This may be to create threads various forms 
 *   and dimensions.
 *   module to_cylinder don't make cylinder self. 
-*   View examples for details)
+*   
 */
 PI=3.1415926;
 
