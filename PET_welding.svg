@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="4000"
+   height="3000"
+   viewBox="0 0 4000 3000"
+   sodipodi:docname="PET_welding.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.5040001"
+     inkscape:cx="-89.754564"
+     inkscape:cy="2887.6997"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <g
+       id="g2"
+       transform="matrix(1.6292442,0,0,1.6292442,-3209.4527,574.98932)">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.0600945;stroke-linejoin:round;stroke-miterlimit:0"
+         d="m 1845.3956,1469.5069 c 1.0219,0.3541 14.738,1.3296 17.9826,1.5718 3.2446,0.2422 5.8761,-0.6332 9.5171,-3.1762 3.641,-2.5431 4.0447,-6.1586 6.3051,-9.4385 2.2603,-3.2799 10.5317,-12.954 24.2251,-14.4997 13.6933,-1.5456 27.1994,8.3005 33.1403,15.0698 5.941,6.7694 9.9549,15.6268 19.924,33.0381 9.9692,17.4114 28.6249,37.9642 39.496,46.1299 10.8712,8.1658 31.3732,18.5824 53.7648,23.3299 24.0647,5.1022 52.0153,5.895 70.9039,6.5225 18.8887,0.6275 44.8787,-2.471 55.0062,-3.762 8.8028,-1.1221 14.163,-2.0364 15.8342,-2.9862 1.6711,-0.9497 1.9276,-4.8417 0.5077,-6.0082 -1.4198,-1.1665 -2.1054,-2.3922 -15.852,-2.8586 -19.728,-0.6695 -46.7177,-1.6883 -59.0218,-2.1757 -11.6406,-0.4611 -39.0721,-3.1169 -48.8049,-4.8515 -9.96,-1.7751 -17.6184,-4.3354 -28.2077,-8.6512 -10.5893,-4.3157 -22.4125,-12.3242 -25.6881,-14.7563 -3.2756,-2.4322 -10.7219,-10.1674 -15.8675,-15.9782 -5.1455,-5.8108 -14.9751,-21.6384 -20.7701,-29.6871 -5.7949,-8.0486 -21.5734,-26.301 -27.1903,-30.5896 -5.6168,-4.2885 -12.5523,-8.8177 -19.555,-11.8083 -6.8813,-2.9388 -15.2203,-5.5554 -21.6699,-5.8575 -4.5041,-0.211 -7.279,-0.022 -9.6652,0.4015 -2.1854,0.388 -6.772,1.8099 -8.6016,2.8174 -1.9591,1.0789 -4.0071,2.489 -5.6862,3.8557 -2.1134,1.7201 -3.9912,3.648 -5.7623,5.7189 -2.7292,3.1912 -5.6383,6.1656 -7.6689,9.9939 -0.4031,0.76 -1.6678,1.2653 -2.2964,0.678 -1.4279,-1.3339 -3.2736,-6.1098 -3.2736,-6.1098 l -20.2435,-1.3187 c 0,0 -1.804,25.0319 -0.782,25.386 z"
+         id="path1"
+         sodipodi:nodetypes="sssssssssssssssssssssssssssssccss" />
+    </g>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.600945;stroke-linejoin:round;stroke-miterlimit:0"
+       d="M 1424.969,1669.7496 Z"
+       id="path3" />
+  </g>
+</svg>

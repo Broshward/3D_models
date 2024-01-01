@@ -25,6 +25,7 @@ handle*                     - Potenciometer handles
 support*                    - Bearing support for filament machine
 
 roller*                     - Extrusion roller mechanism for filament machine(alpha)
+PET_welding*                - PET lent wielding instrument
 
 
 
