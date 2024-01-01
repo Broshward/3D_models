@@ -9,13 +9,22 @@ d_bolt=5;
 
 difference(){
     bind();
-    translate([0,-60,0]) thor(130,12);
+    translate([0,-60,0]) thor(130,14);
     union(){
         translate([0,-6,0]) cylinder(h+0.01,d_bolt/2,d_bolt/2,true,$fn=20);
         translate([0,-6,h/2-3/2+0.01]) cylinder(3,5,5,true);
-        translate([w/3+5,4,0]){cylinder(h+0.01,d_bolt/2,d_bolt/2,true,$fn=20);translate([0,0,h/2-3/2+0.01]) cylinder(3,5,5,true);}
-        translate([-w/3-5,4,0]){cylinder(h+0.01,d_bolt/2,d_bolt/2,true,$fn=20);translate([0,0,h/2-3/2+0.01]) cylinder(3,5,5,true);}
+        translate([w/3+5,4,0]){
+            cylinder(h+0.01,d_bolt/2,d_bolt/2,true,$fn=20);
+            translate([0,0,h/2-3/2+0.01]) cylinder(3,5,5,true);
+        }
+        translate([-w/3-5,4,0]){
+            cylinder(h+0.01,d_bolt/2,d_bolt/2,true,$fn=20);
+            translate([0,0,h/2-3/2+0.01]) cylinder(3,5,5,true);
+        }
+        translate([-w/3,5,5]) difference(){rotate(180) cube([100,100,100]);cylinder(10,18,18);}
+        mirror([1,0,0]) translate([-w/3,5,5]) difference(){rotate(180) cube([100,100,100]);cylinder(10,18,18);}
     }
+
     translate([0,l/2-h/2,0])difference(){
         translate([0,h/4+0.01,h/4+0.01]) cube([w+0.01,h/2,h/2],true);
         rotate([0,90,0]) cylinder(w+0.02,h/2,h/2,true);
