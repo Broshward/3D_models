@@ -1,7 +1,7 @@
 # 3D_models
 3D models for my projects and life.
 
-It is not permitted to be used for purposes involving violence
+License: Harmonies Worlds
 ________________
 
 Library content:
