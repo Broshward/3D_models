@@ -34,3 +34,5 @@ dowel*                      - Dowel for concrete d=12, l=60
 ski_binding*                - Ski bindings for nature people))
 
 LaserHolder*                Is the holder Laser tree engraving module on the 3D printer without removal extruder
+
+python/                     is the python scripts generators complexity forms for laser engraving in openscad
