@@ -18,7 +18,7 @@ module to_cylinder(r,size=[100,100,10],step=0,on_left=false) {
     h_step =  step / (360/ang_step); // Step for Y. When spiral bending
     len_scale = (sqrt(len_step^2+h_step^2)+sqrt((size.y/2*sin(ang_step))^2+(size.y/2*sin(atan(h_step/len_step)))^2))/len_step; // When need for spiral bending, it is little stretching)
     for (i=[0:1:count]) {
-        rotate([0,0,ang_step*i])
+        rotate([0,0,ang_step*i+len_step/(2*PI*r)*180])
         translate([0,-r,h_step*i])
         rotate([0,-atan(h_step/len_step),0])
         scale([len_scale,1,1])
@@ -29,12 +29,12 @@ module to_cylinder(r,size=[100,100,10],step=0,on_left=false) {
     }
 }
 
-/*
+
 //Cylinder on cylinder
 cylinder(40,30,30);
 rotate([0,90,0]) cylinder(1000,1,1,$fn=10);
 to_cylinder(30,[1000,2,2],10) rotate([0,90,0]) cylinder(1000,1,1,$fn=10);
-*/
+
 /*
 //Text on cylinder
 s="Hello worlds Hello Harmonies Worlds Hello SamstillingHeimar))";
